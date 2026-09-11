@@ -12,7 +12,7 @@ AI, cloud, ERP, SaaS, automation, robotics, and whatever comes next are capabili
 
 From Sineth's point of view, Persist's mission should be:
 
-> **Understand enterprises deeply enough to know what any new technology actually means for them — and how to debug or close the gaps inside the enterprise.**
+> **Understand enterprises deeply enough to know what any new technology actually means for them, and how to debug or close the gaps inside the enterprise.**
 
 The first half is about interpretation: understanding what a technological change actually changes for a specific enterprise.
 
@@ -35,7 +35,7 @@ LEARN
 ↺
 ```
 
-"Debug" is intentionally broader than software. An enterprise can contain bugs in data, processes, incentives, ownership, coordination, systems, decision-making, information flow, or organisational design.
+"Debug" is intentionally broader than software. An enterprise can contain bugs in data, processes, incentives, ownership, coordination, systems, decision making, information flow, or organisational design.
 
 The objective is not to deploy more technology. The objective is to make the enterprise work better.
 
