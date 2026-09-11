@@ -6,6 +6,34 @@ This repository is **not** a finished business plan, a manifesto, or a doctrine 
 
 It is a **reasoning logic**.
 
+## The invariant
+
+> **The enterprise is the invariant. AI is a variable.**
+
+The enterprise itself evolves, but it remains the enduring object we are trying to understand, improve, and help persist.
+
+AI changes. Models change. Vendors change. Cloud architectures change. Software categories change. The next technological wave will change too.
+
+The enterprise remains the centre of gravity.
+
+```text
+ENTERPRISE
+    ↓
+enduring object of understanding
+
+TECHNOLOGY
+    ↓
+changing set of capabilities
+
+AI
+    ↓
+one current variable within that set
+```
+
+This is the starting point for everything else in the repository:
+
+> **Do not reorganise the enterprise around whatever technology is fashionable. Understand the enterprise deeply enough to know what each technology means for it.**
+
 Its purpose is to help you think about the company beneath today's market category, then test that logic against customers, operators, competitors, economics, and actual enterprise behaviour. Whatever survives should become closer to the real company.
 
 Start here if you are Mattia or Riccardo:
