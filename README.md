@@ -1,10 +1,8 @@
 # Project Kaizen
 
-> Sineth's strategic reasoning model for Mattia and Riccardo to attack, test, and evolve.
+> A reasoning system for understanding enterprises deeply, debugging organisational gaps, and deciding what technology actually matters.
 
-This repository is **not** a finished business plan, manifesto, or doctrine to believe because it sounds elegant.
-
-It is a **reasoning logic**.
+This repository is not a finished business plan, manifesto, or set of instructions. It is a reasoning logic for Mattia and Riccardo to attack, test, simplify, and evolve.
 
 ## The invariant
 
@@ -16,43 +14,38 @@ AI changes. Models change. Vendors change. Cloud architectures change. Software 
 
 The enterprise remains the centre of gravity.
 
-```text
-ENTERPRISE
-    ↓
-enduring object of understanding
-
-TECHNOLOGY
-    ↓
-changing set of capabilities
-
-AI
-    ↓
-one current variable within that set
-```
-
-This is the starting point for everything else in the repository:
-
-> **Do not reorganise the enterprise around whatever technology is fashionable. Understand the enterprise deeply enough to know what each technology means for it.**
-
 ## Persist mission
 
 From Sineth's point of view, Persist's mission should be:
 
-> **Understand enterprises deeply enough to know what any new technology actually means for them, and how to debug or close the gaps inside the enterprise.**
+> **Understand enterprises deeply enough to know what any new technology actually means for them and how to debug or close the gaps inside the enterprise.**
 
-The objective is not to deploy more technology. The objective is to understand the enterprise, identify where reality and capability do not match, close the right gaps, and measure what changed.
+That means two things.
 
-Its purpose is to help you think about the company beneath today's market category, then test that logic against customers, operators, competitors, economics, and actual enterprise behaviour. Whatever survives should become closer to the real company.
+First, understand what changed and what it means for this specific enterprise.
 
-Start here if you are Mattia or Riccardo:
+Second, find the gap between how the enterprise works today and how it needs to work, then decide what should be fixed, redesigned, connected, removed, automated, or left alone.
 
-> [`FOR-MATTIA-AND-RICCARDO.md`](./FOR-MATTIA-AND-RICCARDO.md)
+```text
+UNDERSTAND THE ENTERPRISE
+↓
+UNDERSTAND THE CHANGE
+↓
+IDENTIFY THE GAP
+↓
+DIAGNOSE
+↓
+ROUTE TO THE RIGHT CAPABILITY
+↓
+DEPLOY THE MINIMUM SUFFICIENT INTERVENTION
+↓
+MEASURE
+↓
+LEARN
+↺
+```
 
-If you want the whole model compressed into one page, read:
-
-> [`ONE-PAGE-LOGIC.md`](./ONE-PAGE-LOGIC.md)
-
-Then, if you connect the repo to an AI tool, run [`PROMPT.md`](./PROMPT.md). The AI should use [`AI-REVIEW.md`](./AI-REVIEW.md) as its review framework.
+The objective is not more technology. The objective is a better enterprise.
 
 ## Five lines
 
@@ -62,21 +55,23 @@ Then, if you connect the repo to an AI tool, run [`PROMPT.md`](./PROMPT.md). The
 > **Companies either adapt or die.**  
 > **Persist.**
 
-## Centre of gravity
+## Core principles
 
-The enterprise is the centre of gravity.
+> **Business first. Systems second. Technology third. AI somewhere much later.**
 
-AI is not the centre. Cloud is not the centre. Software is not the centre. These are capabilities whose relevance changes with time.
+Technology should be selected after diagnosis, not before it.
 
-The durable capability is:
+> **The problem should determine the capability. The capability should not determine the problem.**
 
-> **Understand enterprises deeply enough to know what any new technology actually means for them.**
+> **Understand deeply. Change only what needs changing.**
 
-### Why the enterprise focus changes hiring
+> **AI proposes. Evidence constrains. Humans decide. Outcomes judge.**
+
+> **The model is not the truth. The model is a machine for finding the truth.**
+
+## Why enterprise focus changes hiring
 
 A company's workforce quietly shapes the problems it sees.
-
-If a company defines itself around one technology, it becomes rational to hire heavily around that technology. Over time the organisation starts reinforcing its own original assumption:
 
 ```text
 WE HIRE AI SPECIALISTS
@@ -91,7 +86,7 @@ WE HIRE MORE AI SPECIALISTS
 ↺
 ```
 
-There is nothing inherently wrong with that model. If the company has already chosen **AI transformation** as its problem space, an AI heavy workforce is internally coherent.
+There is nothing inherently wrong with that model if a company has already chosen AI transformation as its problem space.
 
 Tenex is a useful contrast. Its public model is explicitly focused on AI transformation, so hiring AI engineers, AI strategists, and forward deployed operators follows naturally from the category it has chosen.
 
@@ -99,152 +94,50 @@ Project Kaizen starts one level earlier:
 
 > **What does this enterprise actually need?**
 
-If the enterprise comes first, the correct intervention cannot always be known in advance.
-
 One company may need AI engineering. Another may need ERP expertise, cybersecurity, data architecture, process redesign, organisational change, or no substantial new technology at all.
 
-That creates a different staffing logic:
+Persist should still hire. But permanent hiring should concentrate on the capabilities that define Persist itself: enterprise understanding, diagnosis, orchestration, client trust, quality control, measurement, and learning.
 
-```text
-ENTERPRISE
-↓
-DIAGNOSE
-↓
-CAPABILITY REQUIRED
-↓
-ROUTE
-├── internal team
-├── specialist
-├── partner
-├── vendor
-└── temporary operator pod
-↓
-DEPLOY
-```
+Specialist depth can then be assembled around the problem through a trusted capability network.
 
-Persist should still hire. But permanent hiring should concentrate on capabilities that define Persist itself: enterprise understanding, diagnosis, orchestration, client trust, quality control, measurement, and learning.
-
-Specialist depth can then be assembled around the problem.
-
-The principle is not:
-
-> **Do not hire.**
+The principle is not "do not hire."
 
 It is:
 
 > **Do not let your payroll define your diagnosis.**
 
-A large fixed specialist workforce creates utilisation pressure. If you employ many AI specialists, there is naturally more pressure to discover AI projects. That is not necessarily dishonesty. It is organisational gravity.
+A large fixed specialist workforce creates utilisation pressure. That is organisational gravity. Project Kaizen tries to design against it.
 
-Project Kaizen tries to design against that gravity.
-
-Persist should be structurally capable of saying:
-
-> **You do not need AI.**
-
-Or:
-
-> **You may need AI later, but first your underlying system is broken.**
-
-The deeper rule is:
-
-> **The problem should determine the capability. The capability should not determine the problem.**
-
-## Core abstraction
-
-```text
-ENTERPRISE
-    ↓
-Understand the business
-    ↓
-Understand the system
-    ↓
-Identify the real constraint or opportunity
-    ↓
-Choose the intervention
-    ↓
-Choose the technology
-    ↓
-AI, if appropriate
-```
-
-Not:
-
-```text
-AI
-↓
-Find somewhere to deploy it
-```
-
-This is why Project Kaizen uses the language:
-
-> **Business first. Systems second. Technology third. AI somewhere much later.**
-
-## Internal doctrine, not service sprawl
-
-Project Kaizen does **not** mean Persist should operationally do everything.
-
-Persist may spend years primarily selling AI modernisation. That is compatible with this model.
-
-```text
-WHAT WE SELL TODAY
-≠
-WHAT WE MUST ALWAYS BE
-```
-
-Operational specialisation is good. Intellectual rigidity is not.
-
-## Operating logic
-
-```text
-UNDERSTAND
-↓
-DIAGNOSE
-↓
-ROUTE
-↓
-DEPLOY
-↓
-MEASURE
-↓
-LEARN
-↺
-```
-
-Persist should own enterprise understanding, diagnosis, orchestration, quality control, measurement, and learning. Specialist capability can be routed from a trusted network when the problem demands it.
-
-## Essential guardrails
-
-The model should remain simple enough to use.
-
-Four rules constrain the rest of the repository:
-
-1. [`00-core/definition-of-better.md`](./00-core/definition-of-better.md) says technology adoption is not the outcome. Improvement should show up in **truth, coherence, decision quality, execution, or adaptability**.
-2. [`03-operating-logic/minimum-sufficient-intervention.md`](./03-operating-logic/minimum-sufficient-intervention.md) says **understand deeply; change only what needs changing**.
-3. [`05-agents/decision-doctrine.md`](./05-agents/decision-doctrine.md) says **AI proposes. Evidence constrains. Humans decide. Outcomes judge.**
-4. [`00-core/non-goals.md`](./00-core/non-goals.md) prevents the model from expanding into trying to understand or automate everything.
-
-Before adding another concept, ask:
-
-> **Does this make the reasoning logic clearer, more falsifiable, or more executable?**
-
-If not, leave it out.
-
-## Enterprise intelligence
+## The enterprise model
 
 An enterprise is not only a technical system. It is also economic, human, political, historical, and behavioural.
 
-A useful enterprise model therefore includes structure, systems, data, economics, processes, people, incentives, power, history, behaviour, market, and technology.
+A useful model includes:
+
+```text
+structure
+systems
+data
+economics
+processes
+people
+incentives
+power
+history
+behaviour
+market
+technology
+```
 
 The formal company and the real company are often different.
 
-## Adversarial intelligence
+## LLM and agents are separate layers
 
-The AI layer should not simply tell a company what is true.
+The LLM layer is the reasoning substrate. It represents the enterprise, tracks evidence and uncertainty, preserves context, and helps form hypotheses.
 
-It should help the organisation search for better truth by creating competing hypotheses, finding contradictions, asking better questions, demanding evidence, and updating confidence.
+The agent layer creates adversarial pressure on that reasoning.
 
-Project Kaizen keeps this deliberately small with six core reasoning roles:
+Project Kaizen keeps the agent architecture deliberately small with six core perspectives:
 
 1. Systems
 2. Economics and Customer
@@ -253,68 +146,74 @@ Project Kaizen keeps this deliberately small with six core reasoning roles:
 5. Technology
 6. Red Team
 
-They are perspectives, not autonomous authorities. Their job is to create disciplined disagreement around the same evidence.
-
-> **The model is not the truth. The model is a machine for finding the truth.**
-
-## Compounding loop
-
-Every engagement should improve the system, where legally and contractually appropriate:
+They are perspectives, not autonomous authorities.
 
 ```text
-MORE ENTERPRISE OBSERVATIONS
+ENTERPRISE EVIDENCE
 ↓
-BETTER PATTERN RECOGNITION
+LLM ENTERPRISE MODEL
 ↓
-BETTER DIAGNOSIS
+SIX ADVERSARIAL PERSPECTIVES
 ↓
-BETTER ROUTING
+CONTRADICTIONS
 ↓
-BETTER DEPLOYMENT
+BETTER QUESTIONS
 ↓
-BETTER OUTCOMES
+NEW EVIDENCE
 ↓
-MORE LEARNING
+UPDATED MODEL
 ↺
 ```
 
-The long term asset is not merely AI expertise. It is an increasingly sophisticated understanding of how enterprises behave, break, resist change, adapt, and improve.
+## What counts as better?
 
-## Why Persist?
+Technology adoption is not the outcome.
 
-Project Kaizen is the mindset and method.
+A useful intervention should improve one or more of:
 
-Persist is the outcome.
+- truth
+- coherence
+- decision quality
+- execution
+- adaptability
 
-> **Technologies change. Markets change. Systems change. Companies either adapt or die. Persist.**
+If none improve, ask why the intervention exists.
+
+## Internal doctrine, not service sprawl
+
+Project Kaizen does not mean Persist should operationally do everything.
+
+Persist may spend years primarily selling AI modernisation. That is compatible with the model.
+
+```text
+WHAT WE SELL TODAY
+≠
+WHAT WE MUST ALWAYS BE
+```
+
+Operational specialisation is useful. Intellectual rigidity is not.
 
 ## Repository map
 
-- [`00-core/`](./00-core/) — the constitution
-- [`01-enterprise/`](./01-enterprise/) — what an enterprise is
-- [`02-enterprise-intelligence/`](./02-enterprise-intelligence/) — structure, humans, power, history, economics
-- [`03-operating-logic/`](./03-operating-logic/) — diagnose, route, deploy, measure, learn
-- [`04-capability-network/`](./04-capability-network/) — core team and specialist network
-- [`05-agents/`](./05-agents/) — adversarial enterprise intelligence
-- [`06-learning-system/`](./06-learning-system/) — how each engagement can improve the model
-- [`07-strategy/`](./07-strategy/) — positioning, wedge, moat, antifragility
-- [`08-history/`](./08-history/) — technological waves and economics
-- [`09-case-studies/`](./09-case-studies/) — adaptation cases
-- [`10-patterns/`](./10-patterns/) — reusable failure and success patterns
-- [`11-market-proof/`](./11-market-proof/) — competitors, validation, falsification
-- [`12-templates/`](./12-templates/) — practical working templates
-- [`13-sources/`](./13-sources/) — evidence and reading
+- [`core/`](./core/) — the thesis, principles, and boundaries
+- [`enterprise/`](./enterprise/) — what an enterprise is and how to map it
+- [`method/`](./method/) — diagnose, route, deploy, measure, learn
+- [`llm/`](./llm/) — how the reasoning layer represents evidence, context, uncertainty, and learning
+- [`agents/`](./agents/) — six adversarial reasoning roles and how they interact
+- [`strategy/`](./strategy/) — positioning, moat, and evolution
+- [`evidence/`](./evidence/) — competitors, history, cases, patterns, sources, and falsification
+- [`templates/`](./templates/) — practical working artefacts
 
 ## How to use this repo
 
 1. Read [`FOR-MATTIA-AND-RICCARDO.md`](./FOR-MATTIA-AND-RICCARDO.md).
 2. Read [`ONE-PAGE-LOGIC.md`](./ONE-PAGE-LOGIC.md).
 3. Read deeper only where useful.
-4. Connect the repository to your AI tool.
+4. Connect the repository to an AI tool.
 5. Run [`PROMPT.md`](./PROMPT.md).
-6. Let the AI use [`AI-REVIEW.md`](./AI-REVIEW.md) to attack the model.
-7. Then attack whatever survives against real customers and operations.
+6. Use [`AI-REVIEW.md`](./AI-REVIEW.md) to attack the model.
+7. Test whatever survives against real customers, operators, economics, and outcomes.
 
 Do not preserve this repo because it is elegant.
 
-Attack it. Change it. Delete what fails. Keep what survives.
+**Attack it. Change it. Delete what fails. Keep what survives.**

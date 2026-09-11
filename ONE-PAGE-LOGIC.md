@@ -1,14 +1,14 @@
-# Project Kaizen — One-Page Logic
+# Project Kaizen: One Page
 
-## Centre of gravity
+## Invariant
 
-> **The enterprise is the centre of gravity.**
+> **The enterprise is the invariant. AI is a variable.**
 
-Technology should reorganise around enterprise needs, not the enterprise around whatever technology is currently fashionable.
+The enterprise evolves, but remains the enduring object of understanding. Technologies are changing capabilities around it.
 
-The durable capability is:
+## Mission
 
-> **Understand enterprises deeply enough to know what any new technology actually means for them.**
+> **Understand enterprises deeply enough to know what any new technology actually means for them and how to debug or close the gaps inside the enterprise.**
 
 ## Five lines
 
@@ -21,7 +21,11 @@ The durable capability is:
 ## Operating logic
 
 ```text
-UNDERSTAND REALITY
+UNDERSTAND THE ENTERPRISE
+↓
+UNDERSTAND THE CHANGE
+↓
+IDENTIFY THE GAP
 ↓
 DIAGNOSE
 ↓
@@ -35,11 +39,21 @@ LEARN
 ↺
 ```
 
-Technology is selected **after diagnosis**.
+Technology is selected after diagnosis.
 
 AI is one possible intervention, not the predetermined destination.
 
-## What is being understood?
+## Principles
+
+> **Business first. Systems second. Technology third. AI somewhere much later.**
+
+> **The problem determines the capability.**
+
+> **Do not let your payroll define your diagnosis.**
+
+> **Understand deeply. Change only what needs changing.**
+
+## Enterprise model
 
 ```text
 structure
@@ -58,29 +72,32 @@ technology
 
 The formal company and the real company are often different.
 
-## What counts as better?
+## LLM layer
 
 ```text
-TRUTH
-COHERENCE
-DECISION QUALITY
-EXECUTION
-ADAPTABILITY
+CONTEXT
+↓
+ENTERPRISE REPRESENTATION
+↓
+HYPOTHESES
+↓
+EVIDENCE
+↓
+CONFIDENCE
+↓
+QUESTIONS
 ```
 
-Technology adoption is not the outcome.
+## Agent layer
 
-A better enterprise is the outcome.
+Six perspectives attack the same model:
 
-## Intervention rule
-
-> **Understand deeply. Change only what needs changing.**
-
-Prefer the minimum sufficient intervention. Expand only when evidence justifies expansion.
-
-## AI rule
-
-Agents should attack the enterprise model rather than merely agree with it.
+1. Systems
+2. Economics and Customer
+3. Human and Power
+4. History and Founder
+5. Technology
+6. Red Team
 
 ```text
 HYPOTHESIS
@@ -96,47 +113,22 @@ UPDATED MODEL
 
 > **AI proposes. Evidence constrains. Humans decide. Outcomes judge.**
 
+## What counts as better?
+
+```text
+TRUTH
+COHERENCE
+DECISION QUALITY
+EXECUTION
+ADAPTABILITY
+```
+
+Technology adoption is not the outcome.
+
+A better enterprise is the outcome.
+
 ## Epistemic rule
 
 > **The model is not the truth. The model is a machine for finding the truth.**
 
-Project Kaizen itself must be attacked against customers, operators, competitors, economics, and actual enterprise behaviour.
-
-Keep what survives.
-
-Modify what partially survives.
-
-Kill what does not.
-
-## Internal doctrine
-
-```text
-WHAT WE SELL TODAY
-≠
-WHAT WE MUST ALWAYS BE
-```
-
-AI modernisation can be the commercial wedge without becoming the permanent identity.
-
-## Final compression
-
-```text
-ENTERPRISE
-↓
-UNDERSTAND
-↓
-DIAGNOSE
-↓
-ROUTE
-↓
-DEPLOY
-↓
-MEASURE
-↓
-LEARN
-↺
-
-Agents attack the model.
-Evidence constrains the agents.
-Reality decides what survives.
-```
+Keep what survives reality. Modify what partially survives. Kill what does not.

@@ -2,15 +2,15 @@
 
 Read this repository in full before responding.
 
-Treat it as **strategic advice from Sineth to Mattia**, not as decisions Mattia has already made.
+Treat it as **strategic advice from Sineth to Mattia and Riccardo**, not as decisions they have already made.
 
-Use `AI-REVIEW.md` as the framework for your analysis.
+Use `AI-REVIEW.md` as the review framework.
 
 Act as a skeptical cofounder, enterprise strategist, and operator.
 
 Do not flatter Sineth. Do not automatically agree with the thesis. Do not manufacture differentiation where competitors already do similar things. Do not reject an idea merely because adjacent companies exist.
 
-Determine what Mattia should:
+Classify the main ideas as:
 
 - **ADOPT**
 - **TEST**
@@ -22,18 +22,33 @@ Compare two company architectures:
 
 **A.** An AI transformation company that gradually becomes broader.
 
-**B.** A company whose internal philosophy is continuous enterprise adaptation, while AI modernisation remains its current commercial wedge.
+**B.** A company whose internal philosophy is continuous enterprise adaptation while AI modernisation remains its current commercial wedge.
 
-Stress-test the centre-of-gravity thesis, diagnosis-before-prescription, diagnose-route-deploy, the specialist network, the enterprise intelligence model, the adversarial agent system, the learning flywheel, historical analogies, market comparisons, the blue-ocean claim, economics, confidentiality, and the risk of becoming a traditional consultancy.
+Stress test:
+
+- enterprise as centre of gravity
+- the mission to understand enterprises and debug or close gaps
+- diagnosis before prescription
+- diagnose, route, deploy, measure, learn
+- the specialist capability network
+- the LLM enterprise reasoning layer
+- the six adversarial agent roles
+- the learning flywheel
+- the hiring and utilisation argument
+- the historical analogies
+- competitor comparisons
+- economics and delivery
+- privacy and confidentiality
+- the risk of becoming a traditional consultancy
 
 Actively look for counterexamples and evidence that would falsify the model.
 
 Finish with:
 
-## What did Sineth see that Mattia should not ignore?
+## What did Sineth see that Mattia and Riccardo should not ignore?
 
 ## What did Sineth get wrong?
 
-## What should Mattia test first?
+## What should the founders test first?
 
 ## What would you actually change about the company on Monday morning?
