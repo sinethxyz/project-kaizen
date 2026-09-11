@@ -1,8 +1,18 @@
 # Project Kaizen
 
-> Sineth's strategic model for how Mattia might think about the company.
+> Sineth's strategic reasoning model for Mattia and Riccardo to attack, test, and evolve.
 
-This repository is not a finished business plan and it is not a doctrine to believe because it sounds elegant. It is a model to attack against customers, operators, competitors, economics, and actual enterprise behaviour. Whatever survives should become closer to the company.
+This repository is **not** a finished business plan, a manifesto, or a doctrine to believe because it sounds elegant.
+
+It is a **reasoning logic**.
+
+Its purpose is to help you think about the company beneath today's market category, then test that logic against customers, operators, competitors, economics, and actual enterprise behaviour. Whatever survives should become closer to the real company.
+
+Start here if you are Mattia or Riccardo:
+
+> [`FOR-MATTIA-AND-RICCARDO.md`](./FOR-MATTIA-AND-RICCARDO.md)
+
+Then, if you connect the repo to an AI tool, run [`PROMPT.md`](./PROMPT.md). The AI should use [`AI-REVIEW.md`](./AI-REVIEW.md) as its review framework.
 
 ## Five lines
 
@@ -168,7 +178,12 @@ Persist is the outcome.
 
 ## How to use this repo
 
-If you are Mattia, connect the repository to your AI tool and run [`PROMPT.md`](./PROMPT.md). The AI should use [`AI-REVIEW.md`](./AI-REVIEW.md) as its review framework.
+1. Read [`FOR-MATTIA-AND-RICCARDO.md`](./FOR-MATTIA-AND-RICCARDO.md).
+2. Read the core thesis in [`00-core/`](./00-core/).
+3. Connect the repository to your AI tool.
+4. Run [`PROMPT.md`](./PROMPT.md).
+5. Let the AI use [`AI-REVIEW.md`](./AI-REVIEW.md) to attack the model.
+6. Then attack whatever survives against real customers and operations.
 
 Do not preserve this repo because it is elegant.
 
