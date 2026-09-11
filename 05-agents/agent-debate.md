@@ -1,6 +1,6 @@
 # Agent Debate
 
-Agents should not merely produce parallel reports. They should attack each other's causal explanations.
+The six agents should not merely produce parallel reports. They should challenge each other's causal explanations.
 
 Example:
 
@@ -8,20 +8,22 @@ Example:
 Systems Agent:
 "CRM fragmentation is the root cause."
 
-Power Agent:
-"No. Fragmentation persists because business units refuse to surrender customer ownership."
+Human and Power Agent:
+"Fragmentation persists because business units do not want to surrender customer ownership."
 
-Economics Agent:
-"Neither explanation matters unless fixing it changes retention or cost materially."
+Economics and Customer Agent:
+"Neither explanation matters unless fixing it materially improves retention, cost, or customer experience."
 
-Historian:
-"The business-unit split came from an acquisition five years ago."
+History and Founder Agent:
+"The split came from an acquisition five years ago and was never fully integrated."
 
-Human Agent:
-"Two previous integration programmes failed because staff believed centralisation threatened roles."
+Technology Agent:
+"A new CRM will not solve the ownership problem by itself. First decide whether the existing systems can support a shared customer model."
 
-Red Team:
+Red Team Agent:
 "Management may be using CRM fragmentation to avoid confronting weak customer value."
 ```
 
 The output should be a better question, not merely a longer answer.
+
+> **What evidence would distinguish between these explanations?**
