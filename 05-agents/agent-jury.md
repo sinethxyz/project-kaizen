@@ -1,35 +1,33 @@
 # Agent Jury
 
-Major recommendations can be reviewed by a structured jury of agents with conflicting mandates.
+Major recommendations can be reviewed by the same six core agents.
 
 Example:
 
 ```text
 PROPOSAL:
-Deploy AI support agent
-
-AI Advocate:
-YES
-
-AI Prosecutor:
-NO
+Deploy an AI support agent
 
 Systems Agent:
 NOT YET
+Knowledge and customer context are fragmented.
 
-Human Agent:
-YES, WITH WORKFLOW REDESIGN
+Economics and Customer Agent:
+ONLY IF THE PILOT IMPROVES COST OR CUSTOMER EXPERIENCE
 
-Economics Agent:
-ONLY IF COST < THRESHOLD
+Human and Power Agent:
+YES, BUT ONLY WITH WORKFLOW AND OWNERSHIP CHANGES
 
-Security Agent:
-YES, WITH DATA BOUNDARIES
+History and Founder Agent:
+CHECK WHY EARLIER SUPPORT TRANSFORMATIONS FAILED
 
-Red Team:
-CURRENT BUSINESS CASE IS WEAK
+Technology Agent:
+PILOT AFTER THE LOWER LAYER PROBLEMS ARE FIXED
+
+Red Team Agent:
+THE CURRENT BUSINESS CASE IS TOO WEAK
 ```
 
-The result should not be simple majority voting.
+The result should never be simple majority voting.
 
-The jury should expose disagreements, assumptions, blockers, and the evidence needed before a decision.
+The purpose is to expose disagreements, assumptions, blockers, and the evidence required before a human decision.
