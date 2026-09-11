@@ -2,7 +2,7 @@
 
 > Sineth's strategic reasoning model for Mattia and Riccardo to attack, test, and evolve.
 
-This repository is **not** a finished business plan, a manifesto, or a doctrine to believe because it sounds elegant.
+This repository is **not** a finished business plan, manifesto, or doctrine to believe because it sounds elegant.
 
 It is a **reasoning logic**.
 
@@ -33,6 +33,14 @@ one current variable within that set
 This is the starting point for everything else in the repository:
 
 > **Do not reorganise the enterprise around whatever technology is fashionable. Understand the enterprise deeply enough to know what each technology means for it.**
+
+## Persist mission
+
+From Sineth's point of view, Persist's mission should be:
+
+> **Understand enterprises deeply enough to know what any new technology actually means for them, and how to debug or close the gaps inside the enterprise.**
+
+The objective is not to deploy more technology. The objective is to understand the enterprise, identify where reality and capability do not match, close the right gaps, and measure what changed.
 
 Its purpose is to help you think about the company beneath today's market category, then test that logic against customers, operators, competitors, economics, and actual enterprise behaviour. Whatever survives should become closer to the real company.
 
@@ -83,9 +91,9 @@ WE HIRE MORE AI SPECIALISTS
 ↺
 ```
 
-There is nothing inherently wrong with that model. If the company has already chosen **AI transformation** as its problem space, an AI-heavy workforce is internally coherent.
+There is nothing inherently wrong with that model. If the company has already chosen **AI transformation** as its problem space, an AI heavy workforce is internally coherent.
 
-Tenex is a useful contrast. Its public model is explicitly AI-transformation focused, so hiring AI engineers, AI strategists, and forward-deployed operators follows naturally from the category it has chosen.
+Tenex is a useful contrast. Its public model is explicitly focused on AI transformation, so hiring AI engineers, AI strategists, and forward deployed operators follows naturally from the category it has chosen.
 
 Project Kaizen starts one level earlier:
 
@@ -126,7 +134,7 @@ It is:
 
 > **Do not let your payroll define your diagnosis.**
 
-A large fixed specialist workforce creates utilisation pressure. If you employ many AI specialists, there is naturally more pressure to discover AI projects. That is not necessarily dishonesty; it is organisational gravity.
+A large fixed specialist workforce creates utilisation pressure. If you employ many AI specialists, there is naturally more pressure to discover AI projects. That is not necessarily dishonesty. It is organisational gravity.
 
 Project Kaizen tries to design against that gravity.
 
@@ -157,7 +165,7 @@ Choose the intervention
     ↓
 Choose the technology
     ↓
-AI — if appropriate
+AI, if appropriate
 ```
 
 Not:
@@ -209,12 +217,12 @@ Persist should own enterprise understanding, diagnosis, orchestration, quality c
 
 The model should remain simple enough to use.
 
-Four rules now constrain the rest of the repository:
+Four rules constrain the rest of the repository:
 
-1. [`00-core/definition-of-better.md`](./00-core/definition-of-better.md) — technology adoption is not the outcome; improvement should show up in **truth, coherence, decision quality, execution, or adaptability**.
-2. [`03-operating-logic/minimum-sufficient-intervention.md`](./03-operating-logic/minimum-sufficient-intervention.md) — **understand deeply; change only what needs changing**.
-3. [`05-agents/decision-doctrine.md`](./05-agents/decision-doctrine.md) — **AI proposes. Evidence constrains. Humans decide. Outcomes judge.**
-4. [`00-core/non-goals.md`](./00-core/non-goals.md) — do not let the model expand into trying to understand or automate everything.
+1. [`00-core/definition-of-better.md`](./00-core/definition-of-better.md) says technology adoption is not the outcome. Improvement should show up in **truth, coherence, decision quality, execution, or adaptability**.
+2. [`03-operating-logic/minimum-sufficient-intervention.md`](./03-operating-logic/minimum-sufficient-intervention.md) says **understand deeply; change only what needs changing**.
+3. [`05-agents/decision-doctrine.md`](./05-agents/decision-doctrine.md) says **AI proposes. Evidence constrains. Humans decide. Outcomes judge.**
+4. [`00-core/non-goals.md`](./00-core/non-goals.md) prevents the model from expanding into trying to understand or automate everything.
 
 Before adding another concept, ask:
 
@@ -235,6 +243,17 @@ The formal company and the real company are often different.
 The AI layer should not simply tell a company what is true.
 
 It should help the organisation search for better truth by creating competing hypotheses, finding contradictions, asking better questions, demanding evidence, and updating confidence.
+
+Project Kaizen keeps this deliberately small with six core reasoning roles:
+
+1. Systems
+2. Economics and Customer
+3. Human and Power
+4. History and Founder
+5. Technology
+6. Red Team
+
+They are perspectives, not autonomous authorities. Their job is to create disciplined disagreement around the same evidence.
 
 > **The model is not the truth. The model is a machine for finding the truth.**
 
@@ -259,7 +278,7 @@ MORE LEARNING
 ↺
 ```
 
-The long-term asset is not merely AI expertise. It is an increasingly sophisticated understanding of how enterprises behave, break, resist change, adapt, and improve.
+The long term asset is not merely AI expertise. It is an increasingly sophisticated understanding of how enterprises behave, break, resist change, adapt, and improve.
 
 ## Why Persist?
 
@@ -275,13 +294,13 @@ Persist is the outcome.
 - [`01-enterprise/`](./01-enterprise/) — what an enterprise is
 - [`02-enterprise-intelligence/`](./02-enterprise-intelligence/) — structure, humans, power, history, economics
 - [`03-operating-logic/`](./03-operating-logic/) — diagnose, route, deploy, measure, learn
-- [`04-capability-network/`](./04-capability-network/) — core team + specialist network
+- [`04-capability-network/`](./04-capability-network/) — core team and specialist network
 - [`05-agents/`](./05-agents/) — adversarial enterprise intelligence
 - [`06-learning-system/`](./06-learning-system/) — how each engagement can improve the model
 - [`07-strategy/`](./07-strategy/) — positioning, wedge, moat, antifragility
 - [`08-history/`](./08-history/) — technological waves and economics
 - [`09-case-studies/`](./09-case-studies/) — adaptation cases
-- [`10-patterns/`](./10-patterns/) — reusable failure/success patterns
+- [`10-patterns/`](./10-patterns/) — reusable failure and success patterns
 - [`11-market-proof/`](./11-market-proof/) — competitors, validation, falsification
 - [`12-templates/`](./12-templates/) — practical working templates
 - [`13-sources/`](./13-sources/) — evidence and reading
