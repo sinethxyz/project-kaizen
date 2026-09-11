@@ -1,0 +1,24 @@
+# Hypothesis Template
+
+```text
+HYPOTHESIS ID:
+
+CLAIM:
+
+MECHANISM:
+Why would this produce the observed outcome?
+
+EVIDENCE FOR:
+
+EVIDENCE AGAINST:
+
+CONFIDENCE:
+
+ALTERNATIVE EXPLANATIONS:
+
+WHAT WOULD FALSIFY IT:
+
+EVIDENCE REQUIRED NEXT:
+
+CONSEQUENCE IF TRUE:
+```
