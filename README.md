@@ -36,6 +36,84 @@ The durable capability is:
 
 > **Understand enterprises deeply enough to know what any new technology actually means for them.**
 
+### Why the enterprise focus changes hiring
+
+A company's workforce quietly shapes the problems it sees.
+
+If a company defines itself around one technology, it becomes rational to hire heavily around that technology. Over time the organisation starts reinforcing its own original assumption:
+
+```text
+WE HIRE AI SPECIALISTS
+↓
+WE BECOME VERY GOOD AT AI
+↓
+WE LOOK FOR AI OPPORTUNITIES
+↓
+WE SELL AI PROJECTS
+↓
+WE HIRE MORE AI SPECIALISTS
+↺
+```
+
+There is nothing inherently wrong with that model. If the company has already chosen **AI transformation** as its problem space, an AI-heavy workforce is internally coherent.
+
+Tenex is a useful contrast. Its public model is explicitly AI-transformation focused, so hiring AI engineers, AI strategists, and forward-deployed operators follows naturally from the category it has chosen.
+
+Project Kaizen starts one level earlier:
+
+> **What does this enterprise actually need?**
+
+If the enterprise comes first, the correct intervention cannot always be known in advance.
+
+One company may need AI engineering. Another may need ERP expertise, cybersecurity, data architecture, process redesign, organisational change, or no substantial new technology at all.
+
+That creates a different staffing logic:
+
+```text
+ENTERPRISE
+↓
+DIAGNOSE
+↓
+CAPABILITY REQUIRED
+↓
+ROUTE
+├── internal team
+├── specialist
+├── partner
+├── vendor
+└── temporary operator pod
+↓
+DEPLOY
+```
+
+Persist should still hire. But permanent hiring should concentrate on capabilities that define Persist itself: enterprise understanding, diagnosis, orchestration, client trust, quality control, measurement, and learning.
+
+Specialist depth can then be assembled around the problem.
+
+The principle is not:
+
+> **Do not hire.**
+
+It is:
+
+> **Do not let your payroll define your diagnosis.**
+
+A large fixed specialist workforce creates utilisation pressure. If you employ many AI specialists, there is naturally more pressure to discover AI projects. That is not necessarily dishonesty; it is organisational gravity.
+
+Project Kaizen tries to design against that gravity.
+
+Persist should be structurally capable of saying:
+
+> **You do not need AI.**
+
+Or:
+
+> **You may need AI later, but first your underlying system is broken.**
+
+The deeper rule is:
+
+> **The problem should determine the capability. The capability should not determine the problem.**
+
 ## Core abstraction
 
 ```text
