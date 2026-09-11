@@ -12,6 +12,10 @@ Start here if you are Mattia or Riccardo:
 
 > [`FOR-MATTIA-AND-RICCARDO.md`](./FOR-MATTIA-AND-RICCARDO.md)
 
+If you want the whole model compressed into one page, read:
+
+> [`ONE-PAGE-LOGIC.md`](./ONE-PAGE-LOGIC.md)
+
 Then, if you connect the repo to an AI tool, run [`PROMPT.md`](./PROMPT.md). The AI should use [`AI-REVIEW.md`](./AI-REVIEW.md) as its review framework.
 
 ## Five lines
@@ -33,8 +37,6 @@ The durable capability is:
 > **Understand enterprises deeply enough to know what any new technology actually means for them.**
 
 ## Core abstraction
-
-The useful strategic heuristic is:
 
 ```text
 ENTERPRISE
@@ -70,8 +72,6 @@ Project Kaizen does **not** mean Persist should operationally do everything.
 
 Persist may spend years primarily selling AI modernisation. That is compatible with this model.
 
-The distinction is:
-
 ```text
 WHAT WE SELL TODAY
 ≠
@@ -99,24 +99,28 @@ LEARN
 
 Persist should own enterprise understanding, diagnosis, orchestration, quality control, measurement, and learning. Specialist capability can be routed from a trusted network when the problem demands it.
 
+## Essential guardrails
+
+The model should remain simple enough to use.
+
+Four rules now constrain the rest of the repository:
+
+1. [`00-core/definition-of-better.md`](./00-core/definition-of-better.md) — technology adoption is not the outcome; improvement should show up in **truth, coherence, decision quality, execution, or adaptability**.
+2. [`03-operating-logic/minimum-sufficient-intervention.md`](./03-operating-logic/minimum-sufficient-intervention.md) — **understand deeply; change only what needs changing**.
+3. [`05-agents/decision-doctrine.md`](./05-agents/decision-doctrine.md) — **AI proposes. Evidence constrains. Humans decide. Outcomes judge.**
+4. [`00-core/non-goals.md`](./00-core/non-goals.md) — do not let the model expand into trying to understand or automate everything.
+
+Before adding another concept, ask:
+
+> **Does this make the reasoning logic clearer, more falsifiable, or more executable?**
+
+If not, leave it out.
+
 ## Enterprise intelligence
 
 An enterprise is not only a technical system. It is also economic, human, political, historical, and behavioural.
 
-A useful enterprise model therefore includes:
-
-- structure
-- systems
-- data
-- economics
-- processes
-- people
-- incentives
-- power
-- history
-- behaviour
-- market
-- technology
+A useful enterprise model therefore includes structure, systems, data, economics, processes, people, incentives, power, history, behaviour, market, and technology.
 
 The formal company and the real company are often different.
 
@@ -179,11 +183,12 @@ Persist is the outcome.
 ## How to use this repo
 
 1. Read [`FOR-MATTIA-AND-RICCARDO.md`](./FOR-MATTIA-AND-RICCARDO.md).
-2. Read the core thesis in [`00-core/`](./00-core/).
-3. Connect the repository to your AI tool.
-4. Run [`PROMPT.md`](./PROMPT.md).
-5. Let the AI use [`AI-REVIEW.md`](./AI-REVIEW.md) to attack the model.
-6. Then attack whatever survives against real customers and operations.
+2. Read [`ONE-PAGE-LOGIC.md`](./ONE-PAGE-LOGIC.md).
+3. Read deeper only where useful.
+4. Connect the repository to your AI tool.
+5. Run [`PROMPT.md`](./PROMPT.md).
+6. Let the AI use [`AI-REVIEW.md`](./AI-REVIEW.md) to attack the model.
+7. Then attack whatever survives against real customers and operations.
 
 Do not preserve this repo because it is elegant.
 
